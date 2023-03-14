@@ -4,5 +4,6 @@ date = "2023-03-14"
 draft = true
 pinned = false
 tags = ["supa"]
+image = "ferocious-strong-crocodile.jpg"
 +++
 Der
