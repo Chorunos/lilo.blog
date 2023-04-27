@@ -6,7 +6,8 @@ pinned = false
 +++
 `{{<lead>}}`
 
-Ein Besuch beim Kieferorthopäden gehört für viele Jugendliche und Kinder zum Alltag. Auch wir, Nils Balmer und Max Billeter, haben in den vergangenen 1.5 Jahre mithilfe einer Zahnspange unsere Zahn- und Kieferstellungen optimiert. Bei unser beiden Ausgangslagen handelte es sich definitiv nicht um schwerwiegende Fehlstellungen. Viel mehr ging es darum, wie unser Kieferorthopäde uns erklärt hat, unsere Gebisse langfristig gesund halten zu können. Das Endresultat war sicherlich zufriedenstellend, doch wenn wir heute auf unsere Zähne schauen, sehen wir nicht wirklich grosse Unterschiede zum anfänglichen Gebiss. Es stellte sich die Frage: Hat sich diese Operation überhaupt gelohnt? Und unter welchen Umständen kann auf eine Behandlung verzichtet werden?\
+Ein Besuch beim Kieferorthopäden gehört für viele Jugendliche und Kinder zum Alltag. Auch wir, Nils Balmer und Max Billeter, haben in den vergangenen 1.5 Jahre mithilfe einer Zahnspange unsere Zahn- und Kieferstellungen optimiert. Bei unser beiden Ausgangslagen handelte es sich definitiv nicht um schwerwiegende Fehlstellungen. Viel mehr ging es darum, wie unser Kieferorthopäde uns erklärt hat, unsere Gebisse langfristig gesund halten zu können. Das Endresultat war sicherlich zufriedenstellend, doch wenn wir heute auf unsere Zähne schauen, sehen wir nicht wirklich grosse Unterschiede zum anfänglichen Gebiss. Es stellte sich die Frage: Hat sich diese Operation überhaupt gelohnt? Und unter welchen Umständen kann auf eine Behandlung verzichtet werden?``
+
 `{{</lead>}}`
 
 `{{<box title="Was ist eigentlich Kieferorthopädie?">}}`
@@ -36,6 +37,8 @@ Konkret fragten wir ihn: «Was sind für Sie klare Anzeichen, dass ein kieferort
 Auf die Frage, wie kritisch ein/e Kieferorthopäden/innen bei einem Entscheid zu einer Behandlung wirklich ist, schilderte er uns folgendes: «Zum einen muss man natürlich bei einer Beratung als Kieferorthopäde/in mit diesen Indexen möglichst objektiv beurteilen, wie schwerwiegend die Fehlstellung ist, andererseits muss jeder Patient mit diesen Informationen die Fehlstellung noch in den jeweiligen eigenen Kontext stellen». Das Prinzip, welches uns Herr Johner erklärte, nennt man in der Medizin die «informierte Bewilligung». Dieses Prinzip wird in der ganzen Medizin angewandt und basiert darauf, dass jede/r Patient/in zuerst eine ausreichende Menge an Informationen über den bestimmten Fall bekommen soll bevor er/sie eine Entscheidungen treffen muss. Wie Herr Johner selbst sagt, ist klar, dass immer eine gewisse eigene Meinung der Fachkraft einfliesst, doch schlussendlich sollte diese Meinung möglichst objektiv sein und am Ende sollte der/die Patient/in entscheiden.
 
 Später erklärte er uns zudem, dass es eine gewisse Grauzone zwischen dem ästhetischen- und medizinischen Nuten gibt. Man kann daher laut Herr Johner die beiden Nutzen nicht klar trennen, den inmitten dieser Beiden gibt es immer eine Unschärfe. Eine Behandlung kann daher einerseits einen ästhetischen Nutzen, andererseits einen medizinischen Nutzen haben. So kann nie genau gesagt werden, wann nur die Ästhetik ein Problem ist.
+
+![Dr. med. dent. Alexander Johner in seiner Praxis in Murten](alexander-johner.jpg)
 
 ### Wann kann also verzichtet werden?
 
