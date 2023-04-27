@@ -4,15 +4,16 @@ date = "2023-04-03"
 draft = false
 pinned = false
 +++
+<!--StartFragment-->
+
 `{{<lead>}}`
 
-Ein Besuch beim Kieferorthopäden gehört für viele Jugendliche und Kinder zum Alltag. Auch wir, Nils Balmer und Max Billeter, haben in den vergangenen 1.5 Jahre mithilfe einer Zahnspange unsere Zahn- und Kieferstellungen optimiert. Bei unser beiden Ausgangslagen handelte es sich definitiv nicht um schwerwiegende Fehlstellungen. Viel mehr ging es darum, wie unser Kieferorthopäde uns erklärt hat, unsere Gebisse langfristig gesund halten zu können. Das Endresultat war sicherlich zufriedenstellend, doch wenn wir heute auf unsere Zähne schauen, sehen wir nicht wirklich grosse Unterschiede zum anfänglichen Gebiss. Es stellte sich die Frage: Hat sich diese Operation überhaupt gelohnt? Und unter welchen Umständen kann auf eine Behandlung verzichtet werden?
-
+Ein Besuch beim Kieferorthopäden gehört für viele Jugendliche und Kinder zum Alltag. Auch wir, Nils Balmer und Max Billeter, haben in den vergangenen 1.5 Jahre mithilfe einer Zahnspange unsere Zahn- und Kieferstellungen optimiert. Bei unser beiden Ausgangslagen handelte es sich definitiv nicht um schwerwiegende Fehlstellungen. Viel mehr ging es darum, wie unser Kieferorthopäde uns erklärt hat, unsere Gebisse langfristig gesund halten zu können. Das Endresultat war sicherlich zufriedenstellend, doch wenn wir heute auf unsere Zähne schauen, sehen wir nicht wirklich grosse Unterschiede zum anfänglichen Gebiss. Es stellte sich die Frage: Hat sich diese Operation überhaupt gelohnt? Und unter welchen Umständen kann auf eine Behandlung verzichtet werden?\
 `{{</lead>}}`
 
+<!--EndFragment-->
 
-
-`{{<box title="Infobox Kieferorthopädie">}}`
+`{{<box title="Was ist eigentlich Kieferorthopädie?">}}`
 
 Die Kieferorthopädie ist ein Teilgebiet der Zahnmedizin, welches sich mit Zahn und Kieferfehlstellungen befasst. Typische Zahnfehlstellungen sind zum Beispiel: Der Überbiss, Vorbiss, Tief- und Kreuzbiss. Es gibt aber auch schwerwiegende Zahn- oder Kieferfehlstellung, bei denen sogar ein operativer Eingriff nötig sein kann. Jeder Fall muss deswegen individuell diagnostiziert und klassifiziert werden. Das wird mit verschiedenen Indizen gemacht. Weit verbreitet ist das sogenannte Angle-Klassensystem bei dem Neutralbiss, Distalbiss und Mesialbiss unterschieden werden. Nachdem das Gebiss des Patienten ordentlich eingestuft worden ist, wird das weitere Vorgehen besprochen. Die Zähne werden daraufhin mit einer Reihe an Zahnspangen auf die richtige Stelle gebracht und fixiert.
 
