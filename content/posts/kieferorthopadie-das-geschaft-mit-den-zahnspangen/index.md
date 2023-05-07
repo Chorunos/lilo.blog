@@ -5,11 +5,11 @@ draft = false
 pinned = false
 image = "herunterladen.jpeg"
 +++
-`{{<lead>}}`
+`{{</*lead*/>}}`
 
 Ein Besuch beim Kieferorthopäden gehört für viele Jugendliche und Kinder zum Alltag. Auch wir, Nils Balmer und Max Billeter, haben in den vergangenen 1.5 Jahre mithilfe einer Zahnspange unsere Zahn- und Kieferstellungen optimiert. Bei unser beiden Ausgangslagen handelte es sich definitiv nicht um schwerwiegende Fehlstellungen. Viel mehr ging es darum, wie unser Kieferorthopäde uns erklärt hat, unsere Gebisse langfristig gesund halten zu können. Das Endresultat war sicherlich zufriedenstellend, doch wenn wir heute auf unsere Zähne schauen, sehen wir nicht wirklich grosse Unterschiede zum anfänglichen Gebiss. Es stellte sich die Frage: Hat sich diese Operation überhaupt gelohnt? Und unter welchen Umständen kann auf eine Behandlung verzichtet werden?
 
-`{{</lead>}}`
+`{{</*/lead*/>}}`
 
 `{{<box title="Was ist eigentlich Kieferorthopädie?">}}`
 
